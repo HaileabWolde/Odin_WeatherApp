@@ -1,4 +1,14 @@
 /* styles.css */
-body {
-  background-color: rebeccapurple;
+html, body{
+    min-height: 100vh;
+    margin: 0;
+}
+.container{
+    height: 100vh;
+    overflow: hidden;
+    background-image: url('./image/Rain_ONE.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed; /* Optional: makes the image fixed */
 }
