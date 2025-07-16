@@ -6,7 +6,7 @@ html, body{
 .container{
     height: 100vh;
     overflow: hidden;
-    background-image: url('./image/Rain_ONE.jpg');
+    background-image: url('./image/Cloudy_Night.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
